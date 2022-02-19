@@ -1,3 +1,7 @@
 # hello-world-internet
 hello world created uisng internet app
-my name is yosef nega am using git for the first time
+readme-edits
+adding something to see the change
+test 
+i love to eat banana
+test2
